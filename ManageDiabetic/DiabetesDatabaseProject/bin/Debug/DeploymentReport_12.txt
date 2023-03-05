@@ -1,0 +1,23 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[AddedInsulin] (Table)
+       [dbo].[Food] (Table)
+       [dbo].[Insulin] (Table)
+       [dbo].[Measurement] (Table)
+       [dbo].[MeasurementFood] (Table)
+       Foreign Key: unnamed constraint on [dbo].[AddedInsulin] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[Measurement] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[MeasurementFood] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[MeasurementFood] (Foreign Key)
+
+** Supporting actions

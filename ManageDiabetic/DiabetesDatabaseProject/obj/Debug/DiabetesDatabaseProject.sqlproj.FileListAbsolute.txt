@@ -1,0 +1,6 @@
+C:\Users\sja48\source\repos\fall2022-Masternoble007\ManageDiabetic\DiabetesDatabaseProject\bin\Debug\DiabetesDatabaseProject.dacpac
+C:\Users\sja48\source\repos\fall2022-Masternoble007\ManageDiabetic\DiabetesDatabaseProject\bin\Debug\DiabetesDatabaseProject.dll
+C:\Users\sja48\source\repos\fall2022-Masternoble007\ManageDiabetic\DiabetesDatabaseProject\bin\Debug\DiabetesDatabaseProject.pdb
+C:\Users\sja48\source\repos\fall2022-Masternoble007\ManageDiabetic\DiabetesDatabaseProject\obj\Debug\DiabetesDatabaseProject.dll
+C:\Users\sja48\source\repos\fall2022-Masternoble007\ManageDiabetic\DiabetesDatabaseProject\obj\Debug\DiabetesDatabaseProject.pdb
+C:\Users\sja48\source\repos\fall2022-Masternoble007\ManageDiabetic\DiabetesDatabaseProject\obj\Debug\DiabetesDatabaseProject.sqlproj.AssemblyReference.cache

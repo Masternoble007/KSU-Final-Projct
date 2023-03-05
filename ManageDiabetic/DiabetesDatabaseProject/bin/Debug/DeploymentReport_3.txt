@@ -1,0 +1,30 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[Measurement]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The type for column Date in table [dbo].[Measurement] is currently  TEXT NOT NULL but is being changed to  DATETIME NOT
+         NULL. There is no implicit or explicit conversion.
+       The type for column Time in table [dbo].[Measurement] is currently  TEXT NOT NULL but is being changed to  DATETIME NOT
+         NULL. There is no implicit or explicit conversion.
+
+** User actions
+     Drop
+       unnamed constraint on [dbo].[MeasurementFood] (Foreign Key)
+       unnamed constraint on [dbo].[Measurement] (Foreign Key)
+     Alter
+       [dbo].[Food] (Table)
+     Table rebuild
+       [dbo].[Measurement] (Table)
+
+** Supporting actions
+     Create
+       Foreign Key: unnamed constraint on [dbo].[MeasurementFood] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[Measurement] (Foreign Key)
+
+The type for column Date in table [dbo].[Measurement] is currently  TEXT NOT NULL but is being changed to  DATETIME NOT NULL. There is no implicit or explicit conversion.
+The type for column Time in table [dbo].[Measurement] is currently  TEXT NOT NULL but is being changed to  DATETIME NOT NULL. There is no implicit or explicit conversion.
+

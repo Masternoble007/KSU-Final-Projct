@@ -1,0 +1,5 @@
+C:\Users\sja48\source\repos\fall2022-Masternoble007\ManageDiabetic\DiabetesDatabaseProject\bin\Release\DiabetesDatabaseProject.dacpac
+C:\Users\sja48\source\repos\fall2022-Masternoble007\ManageDiabetic\DiabetesDatabaseProject\bin\Release\DiabetesDatabaseProject.dll
+C:\Users\sja48\source\repos\fall2022-Masternoble007\ManageDiabetic\DiabetesDatabaseProject\bin\Release\DiabetesDatabaseProject.pdb
+C:\Users\sja48\source\repos\fall2022-Masternoble007\ManageDiabetic\DiabetesDatabaseProject\obj\Release\DiabetesDatabaseProject.dll
+C:\Users\sja48\source\repos\fall2022-Masternoble007\ManageDiabetic\DiabetesDatabaseProject\obj\Release\DiabetesDatabaseProject.pdb
