@@ -3,3 +3,12 @@ C:\Users\sja48\source\repos\fall2022-Masternoble007\ManageDiabetic\DiabetesDatab
 C:\Users\sja48\source\repos\fall2022-Masternoble007\ManageDiabetic\DiabetesDatabaseProject\bin\Release\DiabetesDatabaseProject.pdb
 C:\Users\sja48\source\repos\fall2022-Masternoble007\ManageDiabetic\DiabetesDatabaseProject\obj\Release\DiabetesDatabaseProject.dll
 C:\Users\sja48\source\repos\fall2022-Masternoble007\ManageDiabetic\DiabetesDatabaseProject\obj\Release\DiabetesDatabaseProject.pdb
+C:\Users\sja48\Source\Repos\KSU-Final-Projct\ManageDiabetic\DiabetesDatabaseProject\bin\Release\DiabetesDatabaseProject.dacpac
+C:\Users\sja48\Source\Repos\KSU-Final-Projct\ManageDiabetic\DiabetesDatabaseProject\bin\Release\DiabetesDatabaseProject.dll
+C:\Users\sja48\Source\Repos\KSU-Final-Projct\ManageDiabetic\DiabetesDatabaseProject\bin\Release\DiabetesDatabaseProject.pdb
+C:\Users\sja48\Source\Repos\KSU-Final-Projct\ManageDiabetic\DiabetesDatabaseProject\obj\Release\Model.xml
+C:\Users\sja48\Source\Repos\KSU-Final-Projct\ManageDiabetic\DiabetesDatabaseProject\obj\Release\refactor.xml
+C:\Users\sja48\Source\Repos\KSU-Final-Projct\ManageDiabetic\DiabetesDatabaseProject\obj\Release\postdeploy.sql
+C:\Users\sja48\Source\Repos\KSU-Final-Projct\ManageDiabetic\DiabetesDatabaseProject\obj\Release\predeploy.sql
+C:\Users\sja48\Source\Repos\KSU-Final-Projct\ManageDiabetic\DiabetesDatabaseProject\obj\Release\DiabetesDatabaseProject.dll
+C:\Users\sja48\Source\Repos\KSU-Final-Projct\ManageDiabetic\DiabetesDatabaseProject\obj\Release\DiabetesDatabaseProject.pdb
